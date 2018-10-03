@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <ul id="menu">
-            <li><img src="/assets/MBRVault_Logo.png" style="height:70px; padding-left:20px"></li>
+            <li><img src="./assets/MBRVault_Logo.png" style="height:70px; padding-left:20px"></li>
     </ul>
     <ul id="benefits">
             <li style="padding:15px; font-size:30px; color: #3c4451; font-weight: bold;">Less Work. More Growth</li>
@@ -9,31 +9,31 @@
         <full-page :options="options" id="fullpage" ref="fullpage">
         <div class="section">
             <h3>Skip the data entry</h3>
-            <img src="/assets/reports.png" style="max-height:40%">
+            <img src="./assets/reports.png" style="max-height:40%">
         </div>
         <div class="section">
             <h3>Maintenance Free Online Directory</h3>
-            <img src="/assets/directory.png" style="max-height:50%">
+            <img src="./assets/directory.png" style="max-height:50%">
         </div>
         <div class="section">
             <h3>Sync with Outlook</h3>
-            <img src="/assets/outlook.png" style="max-height:50%">
+            <img src="./assets/outlook.png" style="max-height:50%">
         </div>
         <div class="section">
             <h3>Send Text Messages With Ease</h3>
-            <img src="/assets/text.png" style="max-height:50%">
+            <img src="./assets/text.png" style="max-height:50%">
         </div>
         <div class="section">
             <h3>Email Tracking</h3>
-            <img src="/assets/email_tracking.png" style="max-height:50%">
+            <img src="./assets/email_tracking.png" style="max-height:50%">
         </div>
         <div class="section">
             <h3>Improve Retention</h3>
-            <img src="/assets/retention.png" style="max-height:50%">
+            <img src="./assets/retention.png" style="max-height:50%">
         </div>
         <div class="section">
             <h3>Event Management</h3>
-            <img src="/assets/events.png" style="max-height:50%">
+            <img src="./assets/events.png" style="max-height:50%">
         </div>
     </full-page>
 
