@@ -1,3 +1,4 @@
 module.exports = {
-  outputDir: 'docs'
-}
+  outputDir: "docs",
+  baseUrl: process.env.NODE_ENV === "production" ? "/mbrvaultslides/" : "/"
+};
