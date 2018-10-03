@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <ul id="menu">
-            <li><img src="./assets/MBRVault_Logo.png" style="height:70px; padding-left:20px"></li>
+            <li><img src="img/MBRVault_Logo.png" style="height:70px; padding-left:20px"></li>
     </ul>
     <ul id="benefits">
             <li style="padding:15px; font-size:30px; color: #3c4451; font-weight: bold;">Less Work. More Growth</li>
